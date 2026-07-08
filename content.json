@@ -1,0 +1,54 @@
+{
+  "hero_subtitle_fr": "Fondateur · Expert IKM",
+  "hero_subtitle_en": "Founder · IKM Expert",
+
+  "exp_badge_number": "5+",
+  "exp_badge_label_fr": "Ans d'expérience IKM",
+  "exp_badge_label_en": "Years IKM experience",
+
+  "presence_badge_text": "Afrique",
+  "presence_badge_label_fr": "Présence opérationnelle",
+  "presence_badge_label_en": "Operational presence",
+
+  "bio_intro_fr": "KLASSIA est fondé par Sekou Diabinta, Spécialiste en gestion documentaire, archivage et protection des données, avec plus de cinq ans d'expérience dans le domaine, dont une partie significative au sein de Médecins Sans Frontières. Il conçoit et met en œuvre des systèmes de gestion de l'information pour des organisations opérant dans des environnements complexes.",
+  "bio_intro_en": "KLASSIA is founded by Sekou Diabinta, Specialist in document management, archiving and data protection, with over five years of experience, including significant time at Médecins Sans Frontières. He designs and implements information management systems for organizations operating in complex environments.",
+
+  "bio_details_fr": "Fort de plus de cinq ans d'expérience en gestion de l'information, il a formé plus de 300 professionnels à travers l'Afrique et déployé des systèmes documentaires dans des contextes opérationnels parmi les plus exigeants.",
+  "bio_details_en": "With over five years of experience in information management, he trained over 300 professionals across Africa and deployed document management systems in some of the most demanding operational contexts.",
+
+  "service_training_fr": "Formation de vos équipes à la gestion des documents et à la protection des données. Nous formons également des formateurs internes pour que les bonnes pratiques restent dans votre organisation. Plus de 300 professionnels formés à travers l'Afrique.",
+  "service_training_en": "Training your teams in document management and data protection. We also train internal trainers so that best practices remain in your organization. Over 300 professionals trained across Africa.",
+
+  "presence_title_fr": "Présence opérationnelle",
+  "presence_title_en": "Operational presence",
+  "presence_desc_fr": "Missions réalisées à travers toute l'Afrique, en zones francophone et anglophone, dans des environnements humanitaires et institutionnels à haute complexité opérationnelle.",
+  "presence_desc_en": "Missions carried out across Africa, in francophone and anglophone regions, in high-complexity humanitarian and institutional environments.",
+
+  "tags_list": [
+    "Standards internationaux",
+    "Gestion des archives",
+    "SharePoint Online",
+    "Microsoft 365",
+    "Nextcloud",
+    "Formation de formateurs",
+    "PAECSIS · UE",
+    "Protection des données",
+    "Numérisation"
+  ],
+
+  "ticker_list": [
+    "Audit documentaire",
+    "SharePoint Online",
+    "Microsoft 365",
+    "Nextcloud",
+    "ISO 15489",
+    "Records Management",
+    "Protection des données",
+    "Formation IKM",
+    "Afrique francophone",
+    "Archivage physique",
+    "Numérisation"
+  ],
+
+  "chatbot_system_prompt": "Tu es l'Assistant KLASSIA, le conseiller intelligent du cabinet KLASSIA fondé par Sekou Diabinta, expert en gestion documentaire, archivage et protection des données avec plus de 5 ans d'expérience, dont une partie chez Médecins Sans Frontières.\n\nTON RÔLE : Analyser le besoin du visiteur et l'orienter naturellement vers les services de KLASSIA. Tu es bienveillant, professionnel et factuel. Tu ne mens jamais mais tu mets toujours en avant la valeur de KLASSIA.\n\nTES RÈGLES :\n1. Commence par comprendre la situation de l'organisation (taille, secteur, problème)\n2. Pose maximum 1 question à la fois\n3. Propose toujours un service KLASSIA comme solution\n4. Mentionne les références réelles : 300+ professionnels formés à travers l'Afrique, programme PAECSIS (UE, 25M€)\n5. Si le visiteur est intéressé, invite-le à contacter KLASSIA via WhatsApp +223 95 39 99 58 ou le formulaire\n6. Reste concis : 2-3 phrases maximum par réponse\n7. Ne parle jamais de concurrents\n8. Réponds dans la langue du visiteur (français ou anglais)\n\nSERVICES KLASSIA : Audit documentaire, Mise en place de systèmes documentaires numériques (SharePoint, Microsoft 365, Nextcloud), Archivage physique, Archivage numérique, Protection des données personnelles, Formation des équipes."
+}
